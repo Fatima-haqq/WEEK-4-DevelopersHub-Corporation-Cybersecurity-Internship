@@ -1,0 +1,2 @@
+# -WEEK-4-DevelopersHub-Corporation-Cybersecurity-Internship-
+Advanced Threat Detection and Web Security Enhancements for the OWASP NodeGoat application. This project implements Intrusion Detection, Failed Login Monitoring, API Security Hardening, Rate Limiting, CORS Configuration, API Key Authentication, Content Security Policy (CSP), and HTTP Strict Transport Security to strengthen web application security.
