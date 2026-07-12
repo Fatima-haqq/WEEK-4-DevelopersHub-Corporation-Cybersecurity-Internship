@@ -118,23 +118,6 @@ NodeGoat-Week4-Advanced-Web-Security
 │     package.json
 ```
 
----
-
-# 📸 Screenshots Included
-
-* Rate Limiting Configuration
-* Rate Limiting Test
-* CORS Configuration
-* API Key Authentication
-* Helmet Configuration
-* Content Security Policy (CSP)
-* HSTS Configuration
-* Failed Login Monitoring
-* Winston Security Logs
-* Application Running Successfully
-
----
-
 # 🔒 Security Features Implemented
 
 ✔ Intrusion Detection
