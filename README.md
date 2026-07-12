@@ -175,6 +175,6 @@ Week 4 – Advanced Threat Detection & Web Security Enhancements
 
 **✔ Successfully Completed**
 
-##Author
+**##Author**
 
 Fatima Haq
