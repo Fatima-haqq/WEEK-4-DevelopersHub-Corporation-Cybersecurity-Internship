@@ -159,7 +159,6 @@ The NodeGoat application is now more secure against:
 * Security Log File
 * Project Report
 * Security Documentation
-* Screenshots
 * README Documentation
 
 ---
@@ -176,6 +175,6 @@ Week 4 – Advanced Threat Detection & Web Security Enhancements
 
 **✔ Successfully Completed**
 
-#**Author**
+##Author
 
 Fatima Haq
