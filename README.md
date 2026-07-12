@@ -112,19 +112,6 @@ NodeGoat-Week4-Advanced-Web-Security
 │── reports
 │     Week4_Report.docx
 │     Week4_Documentation.docx
-
-│── screenshots
-│     RateLimit-Code.png
-│     RateLimit-Test.png
-│     CORS-Code.png
-│     APIKey-Code.png
-│     APIKey-Test.png
-│     Helmet-CSP-Code.png
-│     HSTS-Code.png
-│     FailedLogin-Code.png
-│     FailedLogin-Logs.png
-│     Terminal-npm-start.png
-
 │── source-code
 │     server.js
 │     session.js
